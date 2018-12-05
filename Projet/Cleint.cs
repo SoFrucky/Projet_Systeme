@@ -1,8 +1,24 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-public class Class1
+namespace project1.Projet-prog-syst
 {
-	public Class1()
-	{
-	}
+	public class Client : Modele
+{
+    public void AttendPlat()
+    {
+        throw new NotImplementedException();
+    }
+
+    public void MangePlat()
+    {
+        throw new NotImplementedException();
+    }
+
+    public Client()
+    {
+        throw new NotImplementedException();
+    }
+}
 }

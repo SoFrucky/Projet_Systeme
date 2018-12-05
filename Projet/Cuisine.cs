@@ -1,8 +1,19 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-public class Class1
+namespace project1.Projet-prog-syst
 {
-	public Class1()
-	{
-	}
+	public class Cuisine
+{
+    private void SortirPlat()
+    {
+        throw new NotImplementedException();
+    }
+
+    private void RentrerPlatVide()
+    {
+        throw new NotImplementedException();
+    }
+}
 }

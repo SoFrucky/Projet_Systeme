@@ -1,8 +1,24 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-public class Class1
+namespace project1.Projet-prog-syst
 {
-	public Class1()
-	{
-	}
+	public class Modele
+{
+    public void Personnage()
+    {
+        throw new NotImplementedException();
+    }
+
+    public string Parler()
+    {
+        throw new NotImplementedException();
+    }
+
+    public string Action()
+    {
+        throw new NotImplementedException();
+    }
+}
 }
