@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace project1.Projet-prog-syst
+namespace Projet
 {
 	public class Cuisine
 {
